@@ -1,0 +1,61 @@
+* {
+  box-sizing: border-box;
+}
+
+h2 {
+  background-color: rgb(245, 5, 5);
+}
+
+.one {
+  background-color: rgb(0, 195, 255);
+}
+
+#uni p.list {
+  background-color: rgb(213, 236, 6);
+}
+
+#unique {
+  background-color: rgb(38, 0, 255);
+}
+
+a[href*="https"] {
+  background-color: orange;
+}
+
+p strong {
+  background-color: rgb(255, 0, 170);
+}
+
+div.list > h3 {
+  background-color: rgb(255, 0, 0);
+}
+div.list > h4 {
+  background-color: rgb(0, 174, 255);
+}
+
+#nav li {
+  background-color: rgb(100, 67, 67);
+}
+
+li:first-of-type + li {
+  background-color: red;
+}
+
+#uni {
+  background-color: rgb(127, 255, 180);
+}
+
+div.list2 > h4 {
+  background-color: orange;
+}
+
+div.list2 h4 + p {
+  background-color: rgb(0, 17, 255);
+}
+
+.list .list2 {
+  background-color: cadetblue;
+}
+.list .list2 + p {
+  background-color: rgb(252, 0, 0);
+}
