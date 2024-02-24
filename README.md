@@ -1,3 +1,5 @@
+# GIT Commands
+
 - git config
 - git init
 - git clone
@@ -16,4 +18,4 @@
 - git remote
 - git push
 - git pull
- -git stash
+- git stash
